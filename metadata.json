@@ -1,0 +1,6 @@
+{
+  "name": "3D Asset Lab",
+  "description": "Профессиональный браузерный 3D-просмотрщик, анализатор геометрии и экспортёр GLB/glTF/OBJ для веб-игр и Godot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
